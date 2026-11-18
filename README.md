@@ -1,8 +1,8 @@
 # Kerja Praktik – Pengelolaan, Analisis, dan Visualisasi Data Donasi
 
-Human Initiative · Divisi Data Analyst · 2026
+Human Initiative · Subdivisi Data Analyst · 2026
 
-Ringkasan kegiatan Kerja Praktik saya di divisi Data Analyst Human Initiative, dengan topik **Pengelolaan, Analisis, dan Visualisasi Data Donasi Menggunakan Sistem Sigma dan Power BI**.
+Ringkasan kegiatan Kerja Praktik saya di subdivisi Data Analyst Human Initiative, dengan topik **Pengelolaan, Analisis, dan Visualisasi Data Donasi Menggunakan Sistem Sigma dan Power BI**.
 
 ## Yang dikerjakan
 
